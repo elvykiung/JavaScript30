@@ -12,8 +12,8 @@ If you interested to join my journery, here you can fork my [repo](https://githu
 
 # Table Of Contents
 
-| No  | Guide                          | Demo                    |
-| --- | ------------------------------ | ----------------------- |
-| 1   | [JavaScript Drum Kit Guide ]() | [Drum Kit Demo]()       |
-| 2   | [JS + CSS Clock Guide ]()      | [Clock Demo ]()         |
-| 3   | [CSS Variables Guide]()        | [ CSS Variables Demo]() |
+| No  | Guide                                                                                                                | Demo                                                                                                                     |
+| --- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 1   | [JavaScript Drum Kit Guide ](https://github.com/elvykiung/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit) | [Drum Kit Demo](https://github.com/elvykiung/JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/index-START.html) |
+| 2   | [JS + CSS Clock Guide ]()                                                                                            | [Clock Demo ]()                                                                                                          |
+| 3   | [CSS Variables Guide]()                                                                                              | [ CSS Variables Demo]()                                                                                                  |

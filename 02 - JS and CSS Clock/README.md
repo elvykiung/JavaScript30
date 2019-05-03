@@ -116,4 +116,4 @@ movement methods
 
 ## Sources
 
-[JavaScript30](https://javascript30.com) is a free crouse provided by [Wes Bos](https://github.com/wesbos)
+[JavaScript30](https://javascript30.com) is a free course provided by [Wes Bos](https://github.com/wesbos)

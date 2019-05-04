@@ -3,29 +3,16 @@
 ## Table of contents
 
 - [General info](#general-info)
-- [Technologies](#technologies)
-- [Setup](#setup)
 - [Code Overview](#Code-Overview)
-- [Sources](#Sources)
+- [JavaScript Function explain](#JavaScript-Function-explain)
+- [HTML layout](#HTML-layout)
+- [CSS style](#CSS-style)
 
 ## General info
 
 This is an application allow user use keyborad to produce drum audio. When user press "A","S","D "F","G","H","J","K","L"; the buttom on the web will animate according to the key that pressed.
 
 ![Image](https://github.com/elvykiung/JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/image/final_look.PNG?raw=true)
-
-## Technologies
-
-Project is created with:
-
-- JavaScript ES6
-- HTML 5 & CSS
-
-## Setup
-
-To run this project, download entier package and open it in web browser or
-
-Clone this repo to your desktop and run npm install to install all the dependencies.
 
 ## Code Overview
 
@@ -116,6 +103,3 @@ function removeTransition(event) {
 
 1. `display: block` make element display in one element in one line
 
-## Sources
-
-[JavaScript30](https://javascript30.com) is a free course provided by [Wes Bos](https://github.com/wesbos)

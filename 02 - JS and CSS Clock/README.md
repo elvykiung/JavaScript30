@@ -3,29 +3,16 @@
 ## Table of contents
 
 - [General info](#general-info)
-- [Technologies](#technologies)
-- [Setup](#setup)
 - [Code Overview](#Code-Overview)
-- [Sources](#Sources)
+- [JavaScript Function explain](#JavaScript-Function-explain)
+- [HTML layout](#HTML-layout)
+- [CSS style](#CSS-style)
 
 ## General info
 
 This app using HTML and CSS animation to show real time clock
 
 ![Image](image/clock_final.gif)
-
-## Technologies
-
-Project is created with:
-
-- JavaScript ES6
-- HTML 5 & CSS
-
-## Setup
-
-To run this project, download entier package and open it in web browser or
-
-Clone this repo to your desktop and run npm install to install all the dependencies.
 
 ## Code Overview
 
@@ -113,7 +100,3 @@ movement methods
 - cubic-bezier(x, x, x, x)
 
 * ease-in-out
-
-## Sources
-
-[JavaScript30](https://javascript30.com) is a free course provided by [Wes Bos](https://github.com/wesbos)

@@ -3,29 +3,16 @@
 ## Table of contents
 
 - [General info](#general-info)
-- [Technologies](#technologies)
-- [Setup](#setup)
 - [Code Overview](#Code-Overview)
-- [Sources](#Sources)
+- [JavaScript Function explain](#JavaScript-Function-explain)
+- [HTML layout](#HTML-layout)
+- [CSS style](#CSS-style)
 
 ## General info
 
 Allow user to change HTML CSS style by clicking/mouse moving the page
 
 ![Image](final_look.gif)
-
-## Technologies
-
-Project is created with:
-
-- JavaScript ES6
-- HTML 5 & CSS
-
-## Setup
-
-To run this project, download entier package and open it in web browser or
-
-Clone this repo to your desktop and run npm install to install all the dependencies.
 
 ## Code Overview
 
@@ -62,7 +49,7 @@ inputs.forEach(input => input.addEventListener('change', handleUpdate));
 
 ## CSS style
 
-1. Declar the CSS variable at the highest element global scope `:root{}`
+1. Declare the CSS variable at the highest element global scope `:root{}`
 
    The variable name must begin with two dashes (--) and is case sensitive!
 
@@ -78,6 +65,8 @@ inputs.forEach(input => input.addEventListener('change', handleUpdate));
 
 2. Using the variable in css paddind: `var(--spacing)`. Therefore when you change the value on `--base: #ffc600;` declaration, it will change the element that using the variable
 
+Declare a new style for the img element
+
 ```
  img {
         padding: var(--spacing);
@@ -86,7 +75,3 @@ inputs.forEach(input => input.addEventListener('change', handleUpdate));
 ```
 
 3. CSS [filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter) applies graphical effects like blur or color shift to an element. Filters are commonly used to adjust the rendering of images, backgrounds, and borders.
-
-## Sources
-
-[JavaScript30](https://javascript30.com) is a free course provided by [Wes Bos](https://github.com/wesbos)

@@ -14,18 +14,10 @@ If you interested to join my journery, here you can fork my [repo](https://githu
 
 | No  | Guide                                                                                                                             | Demo                                                                                                                                  |
 | --- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [JavaScript Drum Kit Guide ](https://elvykiung.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit)              
-| [Drum Kit Demo](https://elvykiung.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/index-START.html)              
-|
-| 2   | [JS + CSS Clock Guide ](https://elvykiung.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock)                    
-| [Clock Demo ](https://elvykiung.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/index-START.html)                  
-|
-| 3   | [CSS Variables Guide](https://elvykiung.github.io/JavaScript30/03%20-%20CSS%20Variables)                             
-| [ CSS Variables Demo]()
-|                                                                                                               
-| 4 | [Array Cardio, Day 1 Guide]() 
-| [Array Cardio, Day 1 Demo]() 
-|
+| 1   | [JavaScript Drum Kit Guide ](https://elvykiung.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit)                           | [Drum Kit Demo](https://elvykiung.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/index-START.html)                           |
+| 2   | [JS + CSS Clock Guide ](https://elvykiung.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock)                                 | [Clock Demo ](https://elvykiung.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/index-START.html)                              | 
+| 3   | [CSS Variables Guide](https://elvykiung.github.io/JavaScript30/03%20-%20CSS%20Variables)                                          | [ CSS Variables Demo]()                                                                                                               |
+| 4   | [Array Cardio, Day 1 Guide]()                                                                                                     | [Array Cardio, Day 1 Demo]()                                                                                                          |
 | 5   | [Flex Panel Gallery Guide]()                                                                                                      | [Flex Panel Gallery Demo]()                                                                                                           |
 | 6   | [Type Ahead Guide]()                                                                                                              | [Type Ahead Guide Demo]()                                                                                                             |
 | 7   | [Array Cardio, Day 2 Guide]()                                                                                                     | [Array Cardio, Day 2 Demo]()                                                                                                          |

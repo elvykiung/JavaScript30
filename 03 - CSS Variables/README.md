@@ -1,4 +1,4 @@
-#Update CSS Variables with JS
+# Update CSS Variables with JS
 
 ## Table of contents
 

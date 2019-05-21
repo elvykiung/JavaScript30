@@ -10,7 +10,7 @@
 
 ## General info
 
-![Image]()
+![Image](img/final.gif)
 
 ## Code Overview
 

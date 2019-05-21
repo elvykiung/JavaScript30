@@ -10,7 +10,7 @@
 
 ## General info
 
-![Image]()
+Working with 4 type of array.prototype
 
 ## Code Overview
 
@@ -47,7 +47,7 @@ ES6 arrow function for simplifly the code
 
 ```
 
-![Image](./imgs/filter.png)
+![Image](https://github.com/elvykiung/JavaScript30/blob/master/04%20-%20Array%20Cardio%20Day%201/imgs/filter.PNG?raw=true)
 
 # Array.prototype.map()
 
